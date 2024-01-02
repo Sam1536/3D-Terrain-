@@ -1,4 +1,4 @@
 # 3D Terrain 
  <div align="center">
-<img max-width="500" src= "https://user-images.githubusercontent.com/89424721/236951150-012a4925-c770-4b07-b623-897ea35bb048.gif" />
+<img max-width="500" src= "https://github.com/Sam1536/3D-Terrain-/assets/89424721/bbcd7857-c256-4de4-9002-23eda43d120b"/>
  </div>
